@@ -43,7 +43,7 @@ A social/nightlife discovery mobile app built with React Native and Expo.
 
 **Stack:** React Native, Expo, Supabase backend, native location and image-picker modules, with a companion Next.js web page for password reset.
 
-*Repo in progress.*
+*Repo: [github.com/schusteraidan-droid/bar-scene](https://github.com/schusteraidan-droid/bar-scene) (public).*
 
 ---
 
